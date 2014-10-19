@@ -1,0 +1,10 @@
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\DataAccessLayer\bin\Debug\StructureMap.dll
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\DataAccessLayer\bin\Debug\StructureMap.Net4.dll
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\DataAccessLayer\bin\Debug\StructureMap.pdb
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\DataAccessLayer\bin\Debug\StructureMap.xml
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\DataAccessLayer\bin\Debug\StructureMap.Net4.pdb
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\FT\Documents\Visual Studio 2013\Projects\Abstract Factory Pattern\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

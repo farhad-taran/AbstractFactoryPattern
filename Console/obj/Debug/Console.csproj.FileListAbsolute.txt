@@ -1,0 +1,13 @@
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\bin\Debug\Console.exe.config
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\bin\Debug\Console.exe
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\bin\Debug\Console.pdb
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\bin\Debug\DataAccessLayer.dll
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\bin\Debug\StructureMap.dll
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\bin\Debug\StructureMap.Net4.dll
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\bin\Debug\DataAccessLayer.pdb
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\bin\Debug\StructureMap.pdb
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\bin\Debug\StructureMap.xml
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\bin\Debug\StructureMap.Net4.pdb
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\obj\Debug\Console.exe
+c:\users\ft\documents\visual studio 2013\Projects\Abstract Factory Pattern\Console\obj\Debug\Console.pdb
